@@ -1,0 +1,8 @@
+/home/jenkins/shipping/src/main/java/works/weave/socks/shipping/entities/Shipment.java
+/home/jenkins/shipping/src/main/java/works/weave/socks/shipping/entities/HealthCheck.java
+/home/jenkins/shipping/src/main/java/works/weave/socks/shipping/controllers/ShippingController.java
+/home/jenkins/shipping/src/main/java/works/weave/socks/shipping/configuration/PrometheusAutoConfiguration.java
+/home/jenkins/shipping/src/main/java/works/weave/socks/shipping/middleware/HTTPMonitoringInterceptor.java
+/home/jenkins/shipping/src/main/java/works/weave/socks/shipping/configuration/WebMvcConfig.java
+/home/jenkins/shipping/src/main/java/works/weave/socks/shipping/configuration/RabbitMqConfiguration.java
+/home/jenkins/shipping/src/main/java/works/weave/socks/shipping/ShippingServiceApplication.java
