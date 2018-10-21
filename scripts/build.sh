@@ -24,7 +24,7 @@ else
 fi
 CODE_DIR=$(cd $SCRIPT_DIR/..; pwd)
 echo $CODE_DIR
-cp $CODE_DIR/target/*.jar $CODE_DIR/docker/$(basename $CODE_DIR)
+cp $CODE_DIR/target/*.jar $CODE_DIR/docker/shipping
 
 for m in ./docker/*/; do
     REPO=${GROUP}/$(basename $m)
